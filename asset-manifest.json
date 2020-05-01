@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robosocial/static/css/main.23323e77.chunk.css",
+    "main.js": "/robosocial/static/js/main.298c238c.chunk.js",
+    "main.js.map": "/robosocial/static/js/main.298c238c.chunk.js.map",
+    "runtime-main.js": "/robosocial/static/js/runtime-main.4640ddde.js",
+    "runtime-main.js.map": "/robosocial/static/js/runtime-main.4640ddde.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/robosocial/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.9aa58bc8.chunk.js": "/robosocial/static/js/2.9aa58bc8.chunk.js",
+    "static/js/2.9aa58bc8.chunk.js.map": "/robosocial/static/js/2.9aa58bc8.chunk.js.map",
+    "index.html": "/robosocial/index.html",
+    "precache-manifest.e42beb7c1387318f1a52a125b356ddb1.js": "/robosocial/precache-manifest.e42beb7c1387318f1a52a125b356ddb1.js",
+    "service-worker.js": "/robosocial/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/robosocial/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.23323e77.chunk.css.map": "/robosocial/static/css/main.23323e77.chunk.css.map",
+    "static/js/2.9aa58bc8.chunk.js.LICENSE.txt": "/robosocial/static/js/2.9aa58bc8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robosocial/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4640ddde.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.9aa58bc8.chunk.js",
+    "static/css/main.23323e77.chunk.css",
+    "static/js/main.298c238c.chunk.js"
+  ]
+}
